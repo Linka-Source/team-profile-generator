@@ -1,0 +1,19 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Homework Assignment Week 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linka-Source/team-profile-generator.git"
+  },
+  "author": "Paulina Koczwara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Linka-Source/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Linka-Source/team-profile-generator#readme"
+}
