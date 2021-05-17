@@ -4,7 +4,8 @@
   "description": "Homework Assignment Week 10",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Linka-Source/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/Linka-Source/team-profile-generator#readme"
+  "homepage": "https://github.com/Linka-Source/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
