@@ -1,3 +1,4 @@
+![Screenshot](https://user-images.githubusercontent.com/76650898/118572478-acc28d80-b7bf-11eb-9c22-1485e282a33f.JPG)
 # team-profile-generator
 Week 10 Assignment
 
@@ -61,10 +62,12 @@ npm test
 
 ## Screenshots
 
+![Screenshot](https://user-images.githubusercontent.com/76650898/118572520-ccf24c80-b7bf-11eb-889a-d9c09d324f27.JPG)
+
 
 ## Video
 
-
+https://drive.google.com/file/d/1iJ5Y5guLOJGVXzZFabIqHakNLgA-lcLF/view
 
 ## Questions
 
