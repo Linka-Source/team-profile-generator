@@ -1,4 +1,4 @@
-![Screenshot](https://user-images.githubusercontent.com/76650898/118572478-acc28d80-b7bf-11eb-9c22-1485e282a33f.JPG)
+
 # team-profile-generator
 Week 10 Assignment
 
@@ -66,6 +66,9 @@ npm test
 
 
 ## Video
+
+![recording](https://user-images.githubusercontent.com/76650898/118573067-f52e7b00-b7c0-11eb-895f-89bb992353e6.gif)
+
 
 https://drive.google.com/file/d/1iJ5Y5guLOJGVXzZFabIqHakNLgA-lcLF/view
 
