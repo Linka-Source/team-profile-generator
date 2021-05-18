@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Linka-Source/team-profile-generator#readme",
   "dependencies": {
     "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
